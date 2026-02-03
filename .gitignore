@@ -1,0 +1,22 @@
+# pliki konfiguracyjne z danymi dostępowymi
+includes/config.php
+
+# eksporty bazy danych (mogą zawierać wrażliwe dane)
+*.sql
+database.sql
+database_export.sql
+database_utf8.sql
+
+# pliki systemowe
+.DS_Store
+Thumbs.db
+*.log
+
+# foldery IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# pliki tymczasowe PHP
+*.cache
