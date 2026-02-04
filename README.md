@@ -1,4 +1,4 @@
-# PW-Final-Project-PHP (Online Bookstore)
+# PW Final Project PHP (Online Bookstore)
 
 Complete online bookstore with user authentication, shopping cart, and admin panel built with PHP and MySQL.
 
